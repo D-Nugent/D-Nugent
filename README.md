@@ -4,7 +4,7 @@
 <p>I work as a Teaching Assistant at BrainStation🧠 for the Web Development Diploma</p>
 
 <h4>✨Project In Focus: Acumen✨</h4>
-<p>A project built for my BrainStation capstone prject, initially coded in 14 days. Acumen seeks to modernize the job application process and mark a transition away from the paper resume to an immersive video interview.</p>
+<p>A project built for my BrainStation capstone, initially coded in 14 days. Acumen seeks to modernize the job application process and mark a transition away from the paper resume to an immersive video interview.</p>
 <h6><a href="https://www.acumen-resume.com">Deployed Site</a> / <a href="https://github.com/D-Nugent/capstone-acumen">Repository</a></h6>
 <ul> What's Next:
   <li>Adding Responsive Design Throughout so it is accessible across all breakpoints</li>
