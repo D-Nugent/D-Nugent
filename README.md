@@ -46,5 +46,4 @@ increase in life-expectancy and tapping into a large resource of retired industr
   </li>
 </ul>
 
-🚧<a href="https://www.davidnugent.me">Portfolio Site</a>🚧
-!!! Head's Up !!! I'm still developing or rather rehauling my portfolio site so take what you see with a pinch of salt.
+<a href="https://www.davidnugent.me">Portfolio Site</a>
