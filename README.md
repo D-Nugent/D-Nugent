@@ -18,10 +18,10 @@
 <h4>✏️Current Projects✏️</h4>
 <ul>
   <li>📁Portfolio Site
-    <p>A base template has been uploaded and deployed for my portfolio site but there will be a full revamp coming in the next week or two</p>
+    <p>Recently revamped and edited to relfect my personality and creativity. A lot of work done on SVG manipulation for creative effect.</p>
   </li>
   <li>🍎Tutorial Guides
-    <p>To give back, in the next week I'm going to begin posting tutorial videos and code to help junior developers from the basics to semi-advanced js</p>
+    <p>To give back, I'm going to begin posting tutorial videos and code to help junior developers from the basics to semi-advanced js. I have already created a tutorial site dubbed 'BeerCode' for which I am currently recording tutorials.</p>
   </li>
   <li>💰Who Wants To Be A BrainStationnaire
     <p>As part of a coding challenge this was a site I put together in 4 hours. I'm going to be cleaning up the code and improving the project a little next week</p>
