@@ -1,4 +1,5 @@
-[![Header](https://github.com/D-Nugent/D-Nugent/blob/c464fd001f3e95ac8cc0aeadc97acb2b23547406/David_Nugent__Resume.jpg "Header")](https://www.davidnugent.me)
+[![Header](https://github.com/D-Nugent/D-Nugent/blob/43344aecfa57904d3c0cdf064fa229148b2dbd5c/David_Nugent__Resume.jpg "Header")](https://www.davidnugent.me)
+
 
 <h4>👔Where I Work👔</h4> 
 <p>I work as a Teaching Assistant at BrainStation🧠 for the Web Development Diploma</p>
