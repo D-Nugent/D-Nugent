@@ -2,7 +2,8 @@
 
 
 <h4>👔Where I Work👔</h4> 
-<p>I work as a Teaching Assistant at BrainStation🧠 for the Web Development Diploma</p>
+<p>I recently completed a fixed-term contract as a Teaching Assistant at BrainStation🧠 for the Web Development Diploma</p>
+<p>I am now with much excitement looking for my next opportunity</p>
 
 <h4>✨Project In Focus: Acumen✨</h4>
 <p>A project built for my BrainStation capstone, initially coded in 14 days. Acumen seeks to modernize the job application process and mark a transition away from the paper resume to an immersive video interview.</p>
@@ -17,21 +18,21 @@
 </ul>
 <h4>✏️Current Projects✏️</h4>
 <ul>
+  <li>📁Unique Javascript 30 Day Challenge (UJS30C)
+    <p>As I have recently been doing a lof of private study without much time to create, or for at least anything repo-worthy, I decided to take on the challenge of creating a project-a-day for 30 days. The project was inspired by Wes Bos' JS30 course and is being used to help inspire each day's unique project.</p>
+  </li>
+  <li>🛡️Aegis
+    <p>A Web App designed to help Hotels manage lost and found procedures, communication and delivery. I've recently paired up with a very talented developer, James King, to build this large production-scale app.</p>
+  </li>
   <li>📁Portfolio Site
     <p>Recently revamped and edited to relfect my personality and creativity. A lot of work done on SVG manipulation for creative effect.</p>
   </li>
   <li>🍎Tutorial Guides
     <p>To give back, I'm going to begin posting tutorial videos and code to help junior developers from the basics to semi-advanced js. I have already created a tutorial site dubbed 'BeerCode' for which I am currently recording tutorials.</p>
   </li>
-  <li>💰Who Wants To Be A BrainStationnaire
-    <p>As part of a coding challenge this was a site I put together in 4 hours. I'm going to be cleaning up the code and improving the project a little next week</p>
-  </li>
 </ul>
 <h4>📅Future Projects📅</h4>
 <ul>
-  <li>🛡️Aegis
-    <p>A Web App designed to help Hotels manage lost and found procedures, communication and delivery</p>
-  </li>
   <li>⚔️ÆTHER Strategy RPG Tactics Game
     <p>A long-term passion project for creating a 3d RPG tactics game with an immersive storyline and enemy AI.</p>
   </li>
